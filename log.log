@@ -1,0 +1,28 @@
+{2021-10-29 10:25:19,841} [FATAL] com.revature.util.ConnectionFactory - Unable to connect to database. Make sure the database exists and the .properties file is configured properly.
+{2021-11-01 10:41:05,645} [ERROR] com.revature.dao.UserDAO - Email is taken.
+{2021-11-01 10:44:03,634} [ERROR] com.revature.dao.UserDAO - Email is taken.
+{2021-11-01 16:44:10,536} [FATAL] com.revature.dao.UserDAO - Unable to read from database.
+{2021-11-01 16:45:44,342} [FATAL] com.revature.dao.UserDAO - Unable to read from database.
+{2021-11-01 16:46:36,831} [FATAL] com.revature.dao.UserDAO - Unable to read from database.
+{2021-11-01 16:50:29,399} [ERROR] com.revature.service.UserService - Email or Password does not match.
+{2021-11-02 12:11:53,086} [ERROR] com.revature.service.AccountService - Cannot withdraw more than available.
+{2021-11-02 13:19:32,587} [FATAL] com.revature.dao.TransferDAO - Unable to insert int database.
+{2021-11-02 13:20:20,353} [FATAL] com.revature.dao.TransferDAO - Unable to insert into database.
+{2021-11-02 13:40:39,259} [FATAL] com.revature.dao.TransferDAO - Unable to read from database
+{2021-11-02 16:08:49,532} [FATAL] com.revature.dao.TransferDAO - Unable to update database.
+{2021-11-02 16:10:05,318} [FATAL] com.revature.dao.TransferDAO - Unable to update database.
+{2021-11-02 16:10:54,805} [FATAL] com.revature.dao.TransferDAO - Unable to update database.
+{2021-11-02 16:22:38,586} [FATAL] com.revature.dao.TransferDAO - Unable to read from database.
+{2021-11-02 19:45:34,044} [FATAL] com.revature.dao.AccountDAO - Unable to remove from database.
+{2021-11-02 19:49:09,394} [FATAL] com.revature.dao.AccountDAO - Unable to remove from database.
+{2021-11-02 19:50:20,382} [FATAL] com.revature.dao.AccountDAO - Unable to remove from database.
+{2021-11-03 08:30:10,231} [ERROR] com.revature.service.UserService - Cannot insert a null object
+{2021-11-03 08:31:14,114} [ERROR] com.revature.service.UserService - Cannot insert a null object
+{2021-11-03 08:35:20,122} [ERROR] com.revature.service.UserService - Cannot insert a null object
+{2021-11-03 08:58:42,643} [FATAL] com.revature.dao.AccountDAO - Unable to remove from database.
+{2021-11-03 09:03:18,987} [FATAL] com.revature.dao.UserDAO - Unable to read from database.
+{2021-11-03 09:03:40,653} [FATAL] com.revature.dao.UserDAO - Unable to read from database.
+{2021-11-03 09:04:12,749} [FATAL] com.revature.dao.UserDAO - Unable to read from database.
+{2021-11-03 09:04:30,152} [FATAL] com.revature.dao.UserDAO - Unable to read from database.
+{2021-11-03 09:10:04,870} [ERROR] com.revature.service.UserService - Email or Password does not match.
+{2021-11-03 09:19:35,238} [ERROR] com.revature.service.UserService - Email or Password does not match.
